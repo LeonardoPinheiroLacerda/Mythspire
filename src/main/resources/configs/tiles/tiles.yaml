@@ -1,0 +1,19 @@
+tiles:
+  - id: 3
+    tilePath: "tiles/earth.png"
+    collisionable: false
+  - id: 0
+    tilePath: "tiles/grass.png"
+    collisionable: false
+  - id: 5
+    tilePath: "tiles/sand.png"
+    collisionable: false
+  - id: 4
+    tilePath: "tiles/tree.png"
+    collisionable: true
+  - id: 1
+    tilePath: "tiles/wall.png"
+    collisionable: true
+  - id: 2
+    tilePath: "tiles/water.png"
+    collisionable: true

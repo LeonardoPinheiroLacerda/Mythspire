@@ -1,0 +1,6 @@
+objects:
+  - name: key
+    y: 19
+    x: 23
+    spritePath: "assets/sprites/objects/key.png"
+    collisionable: false
